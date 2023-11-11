@@ -1,16 +1,15 @@
 # 2023-Reinforcement-Learning-Conferences-Papers
-<p align="center">
-  <img src="./overview.jpeg" alt="Reinforcement Learning!" style="height:400px">
-</p>
 
+The proceedings of top conference in 2023 on the topic of **Reinforcement Learning** (RL), including: AAAI, IJCAI, NeurIPS, ICML, ICLR, ICRA, AAMAS and more.
 
-Welcome to our GitHub repository! This repository is dedicated to curating significant research papers in the field of **Reinforcement Learning (RL)** that have been accepted at top academic conferences such as **AAAI**, **IJCAI**, **NeurIPS**, **ICML**, **ICLR**, **ICRA**, **AAMAS** and more. We provide you with a convenient resource hub to help you stay updated on the latest developments in reinforcement learning, delve into research trends, and explore cutting-edge algorithms and methods.
+## Table of Contents
 
-欢迎来到我们的GitHub仓库！这个仓库致力于记录 **强化学习** 领域在顶级学术会议，如：**AAAI**, **IJCAI**, **NeurIPS**, **ICML**, **ICLR**, **ICRA**, **AAMAS** 等录用的重要研究论文。我们为您提供了一个便捷的资源库，以帮助您跟踪最新的强化学习进展，深入了解领域内的研究趋势，并探讨最前沿的算法和方法。
-
-## News
-
-- 2023/11/11: I I created this repository and added papers accepted at AAMAS'23, IJCAI'23, ICRA'23, ICML-23,ICLR'23, AAAI'23.
+- [AAAI Conference on Artificial Intelligence (AAAI'2023)](#AAAI-Conference-on-Artificial-Intelligence)
+- [International Conference on Autonomous Agents and Multiagent Systems (AAMAS'2023)](#International-Conference-on-Autonomous-Agents-and-Multiagent-Systems)
+- [International Conference on Learning Representations (ICLR'2023)](#International-Conference-on-Learning-Representations)
+- [International Conference on Machine Learning (ICML'2023)](#International-Conference-on-Machine-Learning)
+- [International Conference on Robotics and Automation (ICRA'2023)](#International-Conference-on-Robotics-and-Automation)
+- [International Joint Conference on Artificial Intelligence (IJCAI'2023)](#International-Joint-Conference-on-Artificial-Intelligence)
 
 ## Contributing
 
@@ -21,27 +20,17 @@ Welcome to our GitHub repository! This repository is dedicated to curating signi
 **Markdown format：**
 
 ```
-- [year-conference/journal] **Paper Name**.
+- **Paper Name**.
   [[pdf](link)]
   [[code](link)]
-  - Author 1, Author 2, and Author 3. *journal/conference, year*.
+  - Author 1, Author 2, and Author 3.
 ```
 
 For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@bjtu.edu.cn)
 
 Please help to contribute this list by contacting me or add pull request.
 
-## Table of Contents
-
-- [AAAI Conference on Artificial Intelligence (AAAI'2023)](#AAAI-Conference-on-Artificial-Intelligence)
-- [International Conference on Autonomous Agents and Multiagent Systems (AAMAS'2023)](#International-Conference-on-Autonomous-Agents-and-Multiagent-Systems)
-- [International Conference on Learning Representations (ICLR'2023)](#International-Conference-on-Learning-Representations)
-
-- [International Conference on Machine Learning (ICML'2023)](#International-Conference-on-Machine-Learning)
-- [International Conference on Robotics and Automation (ICRA'2023)](#International-Conference-on-Robotics-and-Automation)
-- [International Joint Conference on Artificial Intelligence (IJCAI'2023)](#International-Joint-Conference-on-Artificial-Intelligence)
-
-### AAAI Conference on Artificial Intelligence
+## AAAI Conference on Artificial Intelligence
 
  - **Siamese-Discriminant Deep Reinforcement Learning for Solving Jigsaw Puzzles with Large Eroded Gaps.** [[pdf](https://doi.org/10.1609/aaai.v37i2.25325)]
    - Xingke Song, Jiahuan Jin, Chenglin Yao, Shihe Wang, Jianfeng Ren, Ruibin Bai.
@@ -226,7 +215,7 @@ Please help to contribute this list by contacting me or add pull request.
  - **SOREO: A System for Safe and Autonomous Drones Fleet Navigation with Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v37i13.27058)]
    - Réda Alami, Hakim Hacid, Lorenzo Bellone, Michal Barcis, Enrico Natalizio.
 
-### International Conference on Autonomous Agents and Multiagent Systems
+## International Conference on Autonomous Agents and Multiagent Systems
 
  - **Multi-Agent Reinforcement Learning for Adaptive Mesh Refinement.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598614)]
    - Jiachen Yang, Ketan Mittal, Tarik Dzanic, Socratis Petrides, Brendan Keith, Brenden K. Petersen, Daniel M. Faissol, Robert W. Anderson.
@@ -411,7 +400,7 @@ Please help to contribute this list by contacting me or add pull request.
  - **Improvement and Evaluation of the Policy Legibility in Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599167)]
    - Yanyu Liu, Yifeng Zeng, Biyang Ma, Yinghui Pan, Huifan Gao, Xiaohan Huang.
 
-### International Conference on Learning Representations
+## International Conference on Learning Representations
 
  - **The Role of Coverage in Online Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=LQIjzPdDt3q)]
    - Tengyang Xie, Dylan J. Foster, Yu Bai, Nan Jiang, Sham M. Kakade.
@@ -568,7 +557,7 @@ Please help to contribute this list by contacting me or add pull request.
  - **Order Matters: Agent-by-agent Policy Optimization.** [[pdf](https://openreview.net/pdf?id=Q-neeWNVv1)]
    - Xihuai Wang, Zheng Tian, Ziyu Wan, Ying Wen, Jun Wang, Weinan Zhang.
 
-### International Conference on Machine Learning
+## International Conference on Machine Learning
 
  - **Efficient Online Reinforcement Learning with Offline Data.** [[pdf](https://proceedings.mlr.press/v202/ball23a.html)]
    - Philip J. Ball, Laura M. Smith, Ilya Kostrikov, Sergey Levine.
@@ -791,7 +780,7 @@ Please help to contribute this list by contacting me or add pull request.
  - **Principled Reinforcement Learning with Human Feedback from Pairwise or K-wise Comparisons.** [[pdf](https://proceedings.mlr.press/v202/zhu23f.html)]
    - Banghua Zhu, Michael I. Jordan, Jiantao Jiao.
 
-### International Conference on Robotics and Automation
+## International Conference on Robotics and Automation
 
  - **Inverse Reinforcement Learning Framework for Transferring Task Sequencing Policies from Humans to Robots in Manufacturing Applications.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160687)]
    - Omey M. Manyar, Zachary McNulty, Stefanos Nikolaidis, Satyandra K. Gupta.
@@ -914,7 +903,7 @@ Please help to contribute this list by contacting me or add pull request.
  - **Monocular Reactive Collision Avoidance for MAV Teleoperation with Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160427)]
    - Raffaele Brilli, Marco Legittimo, Francesco Crocetti, Mirko Leomanni, Mario Luca Fravolini, Gabriele Costante.
 
-### International Joint Conference on Artificial Intelligence
+## International Joint Conference on Artificial Intelligence
 
  - **Explainable Multi-Agent Reinforcement Learning for Temporal Queries.** [[pdf](https://doi.org/10.24963/ijcai.2023/7)]
    - Kayla Boggess, Sarit Kraus, Lu Feng.
