@@ -33,7 +33,7 @@ Please help to contribute this list by contacting me or add pull request.
 
 ## Table of Contents
 
-- [AAAI Conference on Artificial Intelligence (AAAI'2023)](#AAAI-Conference-on-Artificial-Intelligence-(AAAI'2023))
+- [AAAI Conference on Artificial Intelligence (AAAI-2023)](#AAAI-Conference-on-Artificial-Intelligence-(AAAI-2023))
 - [International Conference on Autonomous Agents and Multiagent Systems (AAMAS'2023)](#International-Conference-on-Autonomous-Agents-and-Multiagent-Systems-(AAMAS'2023))
 - [International Conference on Learning Representations (ICLR'2023)](#International-Conference-on-Learning-Representations-(ICLR'2023))
 
@@ -41,7 +41,7 @@ Please help to contribute this list by contacting me or add pull request.
 - [International Conference on Robotics and Automation (ICRA'2023)](#International-Conference-on-Robotics-and-Automation-(ICRA'2023))
 - [International Joint Conference on Artificial Intelligence (IJCAI'2023)](#International-Joint-Conference-on-Artificial-Intelligence-(IJCAI'2023))
 
-### AAAI Conference on Artificial Intelligence (AAAI'2023)
+### AAAI Conference on Artificial Intelligence (AAAI-2023)
 
  - **Siamese-Discriminant Deep Reinforcement Learning for Solving Jigsaw Puzzles with Large Eroded Gaps.** [[pdf](https://doi.org/10.1609/aaai.v37i2.25325)]
    - Xingke Song, Jiahuan Jin, Chenglin Yao, Shihe Wang, Jianfeng Ren, Ruibin Bai.
