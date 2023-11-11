@@ -8,13 +8,40 @@ Welcome to our GitHub repository! This repository is dedicated to curating signi
 
 欢迎来到我们的GitHub仓库！这个仓库致力于记录 **强化学习** 领域在顶级学术会议，如：**AAAI**, **IJCAI**, **NeurIPS**, **ICML**, **ICLR**, **ICRA**, **AAMAS** 等录用的重要研究论文。我们为您提供了一个便捷的资源库，以帮助您跟踪最新的强化学习进展，深入了解领域内的研究趋势，并探讨最前沿的算法和方法。
 
+## News
 
+- 2023/11/11: I I created this repository and added papers accepted at AAMAS'23, IJCAI'23, ICRA'23, ICML-23,ICLR'23, AAAI'23.
 
-### 2023-AAAI
+## Contributing
 
-> Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023, Washington, DC, USA, February 7-14, 2023.
+<p align="center">
+  <img src="./we-need-you.jpeg" alt="We Need You!">
+</p>
 
-**Accepted Papers：**
+**Markdown format：**
+
+```
+- [year-conference/journal] **Paper Name**.
+  [[pdf](link)]
+  [[code](link)]
+  - Author 1, Author 2, and Author 3. *journal/conference, year*.
+```
+
+For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@bjtu.edu.cn)
+
+Please help to contribute this list by contacting me or add pull request.
+
+## Table of Contents
+
+- [AAAI Conference on Artificial Intelligence (AAAI'2023)](#AAAI-Conference-on-Artificial-Intelligence-(AAAI'2023))
+- [International Conference on Autonomous Agents and Multiagent Systems (AAMAS'2023)](#International-Conference-on-Autonomous-Agents-and-Multiagent-Systems-(AAMAS'2023))
+- [International Conference on Learning Representations (ICLR'2023)](#International-Conference-on-Learning-Representations-(ICLR'2023))
+
+- [International Conference on Machine Learning(ICML'2023)](#International-Conference-on-Machine-Learning-(ICML'2023))
+- [International Conference on Robotics and Automation (ICRA'2023)](#International-Conference-on-Robotics-and-Automation-(ICRA'2023))
+- [International Joint Conference on Artificial Intelligence (IJCAI'2023)](#International-Joint-Conference-on-Artificial-Intelligence-(IJCAI'2023))
+
+### AAAI Conference on Artificial Intelligence (AAAI'2023)
 
  - **Siamese-Discriminant Deep Reinforcement Learning for Solving Jigsaw Puzzles with Large Eroded Gaps.** [[pdf](https://doi.org/10.1609/aaai.v37i2.25325)]
    - Xingke Song, Jiahuan Jin, Chenglin Yao, Shihe Wang, Jianfeng Ren, Ruibin Bai.
@@ -201,11 +228,7 @@ Welcome to our GitHub repository! This repository is dedicated to curating signi
 
 ---
 
-### 2023-AAMAS
-
-> Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2023, London, United Kingdom, 29 May 2023 - 2 June 2023.
-
-**Accepted Papers：**
+### International Conference on Autonomous Agents and Multiagent Systems (AAMAS'2023)
 
  - **Multi-Agent Reinforcement Learning for Adaptive Mesh Refinement.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598614)]
    - Jiachen Yang, Ketan Mittal, Tarik Dzanic, Socratis Petrides, Brendan Keith, Brenden K. Petersen, Daniel M. Faissol, Robert W. Anderson.
@@ -392,11 +415,7 @@ Welcome to our GitHub repository! This repository is dedicated to curating signi
 
 ---
 
-### 2023-IJCAI
-
-> Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023, Washington, DC, USA, February 7-14, 2023.
-
-**Accepted Papers：**
+### International Joint Conference on Artificial Intelligence (IJCAI'2023)
 
  - **Explainable Multi-Agent Reinforcement Learning for Temporal Queries.** [[pdf](https://doi.org/10.24963/ijcai.2023/7)]
    - Kayla Boggess, Sarit Kraus, Lu Feng.
@@ -487,11 +506,7 @@ Welcome to our GitHub repository! This repository is dedicated to curating signi
 
 ---
 
-### 2023-ICLR
-
->  The Eleventh International Conference on Learning Representations, ICLR 2023, Kigali, Rwanda, May 1-5, 2023.
-
-**Accepted Papers：**
+### International Conference on Learning Representations (ICLR'2023)
 
  - **The Role of Coverage in Online Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=LQIjzPdDt3q)]
    - Tengyang Xie, Dylan J. Foster, Yu Bai, Nan Jiang, Sham M. Kakade.
@@ -650,11 +665,7 @@ Welcome to our GitHub repository! This repository is dedicated to curating signi
 
 ---
 
-### 2023-ICML
-
->International Conference on Machine Learning, ICML 2023, 23-29 July 2023, Honolulu, Hawaii, USA. 
-
-**Accepted Papers：**
+### International Conference on Machine Learning (ICML'2023)
 
  - **Efficient Online Reinforcement Learning with Offline Data.** [[pdf](https://proceedings.mlr.press/v202/ball23a.html)]
    - Philip J. Ball, Laura M. Smith, Ilya Kostrikov, Sergey Levine.
@@ -880,11 +891,7 @@ Welcome to our GitHub repository! This repository is dedicated to curating signi
 
 ---
 
-### 2023-ICRA
-
-> 2023 International Conference on Robotics and Automation, ICRA 2023, London, UK, May 29 - June 2, 2023. 
-
-**Accepted Papers：**
+### International Conference on Robotics and Automation (ICRA'2023)
 
  - **Inverse Reinforcement Learning Framework for Transferring Task Sequencing Policies from Humans to Robots in Manufacturing Applications.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160687)]
    - Omey M. Manyar, Zachary McNulty, Stefanos Nikolaidis, Satyandra K. Gupta.
