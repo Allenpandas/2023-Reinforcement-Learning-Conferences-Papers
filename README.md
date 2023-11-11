@@ -26,9 +26,9 @@ The proceedings of top conference in 2023 on the topic of **Reinforcement Learni
   - Author 1, Author 2, and Author 3.
 ```
 
-For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@bjtu.edu.cn)
+Please help to contribute this list by contacting me or add pull request. 
 
-Please help to contribute this list by contacting me or add pull request.
+For any questions, feel free to contact me 📮.
 
 ## AAAI Conference on Artificial Intelligence
 
